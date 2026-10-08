@@ -1,0 +1,26 @@
+# R files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# RStudio project files
+*.Rproj
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Generated plots/output files
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Data files (remove this line if you want to upload your dataset)
+# *.csv
+# *.xlsx
